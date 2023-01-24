@@ -1,16 +1,5 @@
-.App {
+.Heading {
   text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
 }
 
 .App-header {
@@ -22,17 +11,29 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  background-image: url("lap.jpg");
+  background-size: cover;
 }
 
-.App-link {
-  color: #61dafb;
-}
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.NFT{
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+}
+.sendSol{
+  font-family: cursive;
+  color: red;
+  margin: 10px;
+
+}
+.sendSol2{
+  font-family: cursive;
+  color: red;
+  margin: 10px;
+}
+.mint{
+  font-family: cursive;
+  color: red;
+  margin: 10px;
 }
