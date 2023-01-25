@@ -1,3 +1,9 @@
+# About Project
+This a react app that has three sections and uses the SPL TOKEN LIBRARY
+1. Create/mint and send Tokens
+2. Create/mint and lock NFT
+3. Create WSOL and send it to a wallet
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
