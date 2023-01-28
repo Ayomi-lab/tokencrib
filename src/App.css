@@ -1,4 +1,10 @@
 .Heading {
+   display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Heading {
   text-align: center;
 }
 

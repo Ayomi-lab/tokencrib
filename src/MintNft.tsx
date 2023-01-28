@@ -84,15 +84,15 @@ function MintNft() {
   
   
     return (
-        <div  className='NFT'>
-          <div style={{ width: '200px', backgroundColor: 'orange', padding: '20px' }} className = 'mint'>
-          Mint NFT Section
-                <AwesomeButton onPress={createNft}>Create NFT</AwesomeButton>
-                <br />
-                <AwesomeButton onPress={mintNft}>Mint NFT</AwesomeButton>
-                <br />
-                <AwesomeButton onPress={lockNft}>Lock NFT</AwesomeButton>
-            </div>
+        <div className='NFT'>
+                <div style={{ width: '200px', backgroundColor: 'orange', padding: '20px' }} className='mint'>
+                    Mint NFT Section
+                    <AwesomeButton onPress={createNft}>Create NFT</AwesomeButton>
+                    <br />
+                    <AwesomeButton onPress={mintNft}>Mint NFT</AwesomeButton>
+                    <br />
+                    <AwesomeButton onPress={lockNft}>Lock NFT</AwesomeButton>
+                </div>
         </div>
     );
 }
