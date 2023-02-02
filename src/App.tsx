@@ -96,6 +96,7 @@ function App() {
 
   return (
     <>
+    Connected Wallet: {walletKey}
     <div className="Heading">
       <h1> TOKEN CRIB</h1>
     </div>
