@@ -96,4 +96,4 @@ function MintNft() {
         </div>
     );
 }
-  export default MintNft;
+export default MintNft;
