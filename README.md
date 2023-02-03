@@ -3,6 +3,7 @@ This a react app that has three sections and uses the SPL TOKEN LIBRARY
 1. Create/mint and send Tokens
 2. Create/mint and lock NFT
 3. Create WSOL and send it to a wallet
+4. Connect to phantom wallet
 
 # Getting Started with Create React App
 
